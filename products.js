@@ -11,7 +11,7 @@ const products = [
     },
   },
   {
-    id: "price_1JAEABEy9j6mAC9eYTnD6Rv7",
+    id: "price_1MszSLFK1oyv4XjG2RzNUkSB",
     name: "Monstera Deliciosa (L)",
     price: 5995,
     currency: "USD",
